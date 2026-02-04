@@ -223,10 +223,3 @@ OpenCTI was deployed in a secure AWS EC2 environment using Ubuntu Linux, Docker,
 - CISA and Arctic Wolf Threat Advisories  
 - Microsoft & FireEye TTP Reports  
 
----
-
-## Appendices
-
-**Appendix A:** Sprint Timeline & Meetings  
-**Appendix B:** Team Contributions  
-
