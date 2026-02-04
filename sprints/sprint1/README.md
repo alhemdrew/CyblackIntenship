@@ -4,7 +4,7 @@
 **Report ID:** TIR-CTI-2026-INT-001  
 **Report Date:** January 2026  
 **Classification:** Confidential / Internal Use  
-**Analysts:** John Ofulue, Halimat Omorinsola Adepegba, Favour Obisike, Ikenna Emerole, Blessing Ibe, Ayodimeji Omole, Divine Ezewele, Andrew Moses, Odunayo Balogun  
+**Analysts:** Andrew moses and 8 others 
 **Report Version:** 1.0  
 **Distribution:** CyBlack Team, Team 8 SOC Team, Executive Management  
 
