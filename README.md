@@ -12,4 +12,5 @@ All materials were developed as part of the intensive, fast-paced program design
 **Note:** Each sprint folder contains the work and deliverables completed during that period:
 
 - [Sprint 1](https://github.com/alhemdrew/CyblackIntenship/tree/main/sprints/sprint1) – Threat Intelligence & Modeling
+- [Sprint 2](https://github.com/alhemdrew/CyblackIntenship/tree/main/sprints/sprint2) – Microsoft Azure Enterprise Cloud Security Assessment
 - ...........................
