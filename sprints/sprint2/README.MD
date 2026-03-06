@@ -1,5 +1,5 @@
 # Security Operations Center (SOC) Enterprise Cloud Security Assessment Report
-
+<p align="center"> <img src="https://cyblack.org/storage/2023/04/image.png" alt="CyBlack Logo" /> </p>
 ## Microsoft Azure Enterprise Cloud Security Assessment
 
 **Organization:** Redacted Tech Ltd.  
