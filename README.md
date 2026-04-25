@@ -13,4 +13,8 @@ All materials were developed as part of the intensive, fast-paced program design
 
 - [Sprint 1](https://github.com/alhemdrew/CyblackIntenship/tree/main/sprints/sprint1) – Threat Intelligence & Modeling
 - [Sprint 2](https://github.com/alhemdrew/CyblackIntenship/tree/main/sprints/sprint2) – Microsoft Azure Enterprise Cloud Security Assessment
-- ...........................
+- [Sprint 2](https://github.com/alhemdrew/CyblackIntenship/tree/main/sprints/sprint3) – GRC
+- [Sprint 2](https://github.com/alhemdrew/CyblackIntenship/tree/main/sprints/sprint4) – Human Factor
+- [Sprint 2](https://github.com/alhemdrew/CyblackIntenship/tree/main/sprints/sprint5) – Ethical Hacking
+- [Sprint 2](https://github.com/alhemdrew/CyblackIntenship/tree/main/sprints/sprint6) – Security Operations Center (SOC)
+
