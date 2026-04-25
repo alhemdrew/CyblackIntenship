@@ -1,106 +1,109 @@
-# 🛡️ Enterprise Security Governance & Human Factor Framework
+# 👥 Human Factors in Cybersecurity: Threat Assessment & Awareness
 **Organization:** `Cyberinfiniti Ltd.`  
-**Portfolio:** Governance, Risk, Compliance (GRC) & Human Factors  
-**Reporting Period:** Q1 2026  
+**Report ID:** `CIF-HFC-RASAP-2026-02`  
+**Date:** March 2026  
 **Classification:** 🔴 Confidential / Internal Use  
+**Standard Alignment:** `NIST CSF` | `ISO/IEC 27001:2022 (Human Domain)`
 
 ---
 
-## 📑 Master Table of Contents
-- [1.0 Executive Overview](#10-executive-overview)
-- [2.0 Strategic Methodology](#20-strategic-methodology)
-- [3.0 Sprint I: GRC & Policy Framework](#30-sprint-i-grc--policy-framework)
-- [4.0 Sprint II: Human Factors & Awareness](#40-sprint-ii-human-factors--awareness)
-- [5.0 Comprehensive Analyst Team](#50-comprehensive-analyst-team)
-- [6.0 Governance & Continual Improvement](#60-governance--continual-improvement)
+## 📑 Table of Contents
+- [1.0 Executive Summary](#10-executive-summary)
+- [2.0 Detailed Analyst Contributions](#20-detailed-analyst-contributions)
+- [3.0 Human Factor Threat Profile](#30-human-factor-threat-profile)
+- [4.0 Organizational Human Risk Matrix](#40-organizational-human-risk-matrix)
+- [5.0 Case Study Analysis (Benchmarks)](#50-case-study-analysis-benchmarks)
+- [6.0 Security Awareness Program (SAP) Implementation](#60-security-awareness-program-sap-implementation)
+- [7.0 Governance & Continual Improvement](#70-governance--continual-improvement)
 
 ---
 
-## 1.0 Executive Overview
-This repository serves as the central documentation for the security maturity transformation of **Cyberinfiniti Ltd**. By integrating technical policy governance with human-centric risk management, the organization has established a resilient defense-in-depth posture aligned with **ISO/IEC 27002:2022** and the **Nigeria Data Protection Act (NDPA) 2023**.
+## 1.0 Executive Summary
+This report documents a strategic deep-dive into the "Human Layer" of **Cyberinfiniti Ltd**. While technical controls provide a foundation, human behavior remains the most exploited vulnerability in modern cybersecurity. This sprint delivered a comprehensive **Human Factor Threat Assessment** and the design of a specialized **Security Awareness Program (SAP)**.
+
+### Key Deliverables:
+- [x] Identification of 7 critical human threat vectors tailored to SOC operations.
+- [x] Creation of a prioritised Human Risk Matrix for executive oversight.
+- [x] Design of accessible awareness curriculum and training artifacts.
+- [x] Benchmarking against global breaches (Uber, Twitter, MGM).
 
 ---
 
-## 2.0 Strategic Methodology
-Both sprints followed a rigorous lifecycle to ensure policies were not just documents, but enforceable controls:
+## 2.0 Detailed Analyst Contributions
+A multidisciplinary team executed the threat analysis and program architecture:
 
-1. **Discovery:** Gap assessment of current informal controls.
-2. **Contextualization:** Mapping risks to Cyberinfiniti’s specific SOC and VAPT operations.
-3. **Alignment:** Mapping controls to **ISO/IEC 27001/27002** and **NIST CSF**.
-4. **Implementation:** Drafting mandatory, testable, and auditable policy statements.
-5. **Validation:** Executive review and board-level risk briefings.
-
----
-
-## 3.0 Sprint I: GRC & Policy Framework
-**Report ID:** `CIF-GRC-PDCR-2026-02`
-
-The following 10 core policies were developed to formalize organizational security governance:
-
-| Policy | ISO 27002 Ref | Primary Objective |
-| :--- | :--- | :--- |
-| **Information Security** | 5.1 | Strategic direction & management commitment. |
-| **Information Classification** | 5.12 | Lifecycle management of public vs. restricted data. |
-| **IAM & Access Control** | 5.16 | Least-privilege & MFA enforcement. |
-| **Privileged Access (PAM)** | 5.18 | High-risk administrative account governance. |
-| **AI Governance** | 5.23 | Secure & ethical use of AI/LLMs in security operations. |
-| **Incident Management** | 5.24 | Lifecycle response: Detection to Lessons Learned. |
-| **Vulnerability Mgmt** | 8.8 | Proactive scanning and remediation timelines. |
-| **BCDR** | 5.29 | ICT readiness and disaster recovery resilience. |
-
-<details>
-<summary><b>View GRC Compliance Model</b></summary>
-
-- **Quarterly:** Access & Privilege Reviews.
-- **Monthly:** Vulnerability Assessment Reporting.
-- **Annually:** Third-Party Security Due Diligence.
-</details>
-
----
-
-## 4.0 Sprint II: Human Factors & Awareness
-**Report ID:** `CIF-HFC-RASAP-2026-02`
-
-Recognizing the human element as a critical threat vector, this sprint focused on threat modeling behavior and deploying a Security Awareness Program (SAP).
-
-### 🚩 Identified Human Threat Vectors
-- **Phishing/Vishing:** Targeted credential harvesting.
-- **Social Engineering:** Physical and psychological manipulation.
-- **Credential Abuse:** Password hygiene and MFA fatigue.
-- **Remote Work Risks:** Unsecured Public WiFi and mobile security.
-
-### 📊 Human Risk Matrix
-| Vector | Likelihood | Impact | Status |
-| :--- | :--- | :--- | :--- |
-| **Phishing** | 🟢 High | 🔴 High | [x] Training Deployed |
-| **Social Eng.** | 🟡 Medium | 🔴 High | [x] Controls Implemented |
-| **Insider Threat** | 🔵 Low | 🔘 Critical | [ ] Monitoring (In Progress) |
-
----
-
-## 5.0 Comprehensive Analyst Team
-A multidisciplinary team of GRC and Security Analysts executed these sprints:
-
-| Name | Core Functional Responsibility |
+| Analyst | Core Functional Responsibility |
 | :--- | :--- |
-| **John Ofulue** | **Project Lead:** Strategic oversight, BCDR, & accessibility engineering. |
-| **Halimat O. Adepegba** | **Asst. Lead:** Executive reporting & Clear Desk/Screen Policy. |
-| **Andrew Moses** | **Threat Analyst:** ISO alignment, technical proofreading, & incident modeling. |
-| **Ikenna Emerole** | **CISO/Designer:** AI Policy architecture & SAP implementation. |
-| **Odunayo Balogun** | **Risk Analyst:** Information Classification & SOC risk reporting. |
-| **Favour Obisike** | **Eng. Lead:** Privileged Access Management & Media accessibility. |
-| **Ayodimeji Omole** | **SOC Manager:** Incident Management & Board-level briefings. |
-| **Divine Ezewele** | **Legal & Compliance:** IAM Policy & Comprehensive risk reporting. |
-| **Blessing Ibe** | **Comms Manager:** Vendor Risk Management & Visual reporting artifacts. |
+| **John Ofulue** | **Team Lead:** Infrastructure oversight; accessibility engineering; final risk report synthesis. |
+| **Halimat O. Adepegba** | **Asst. Team Lead:** Stakeholder engagement & board-level executive presentation design. |
+| **Andrew Moses** | **Threat Analyst:** Incident formulation; human factor threat modeling; comprehensive report auditing. |
+| **Ikenna Emerole** | **Program Architect:** SAP curriculum design & delivery of executive summary to leadership. |
+| **Odunayo Balogun** | **Risk Analyst:** Formulated specialized human threat factor reports for Cyberinfiniti operations. |
+| **Favour Obisike** | **Media Lead:** Designed SAP program artifacts & implemented video accessibility features. |
+| **Ayodimeji Omole** | **Presenter:** Delivered organizational risk findings to the board and key stakeholders. |
+| **Divine Ezewele** | **Senior Reporter:** Compiled the full comprehensive report on organizational human risks. |
+| **Blessing Ibe** | **Visual Analyst:** Developed executive briefing slides and high-impact visual reporting artifacts. |
 
 ---
 
-## 6.0 Governance & Continual Improvement
-To ensure these frameworks remain living documents:
-* **Exceptions:** All policy deviations must be risk-assessed and CISO-approved.
-* **Enforcement:** Non-compliance follows the tiered disciplinary framework defined in the HR Policy.
-* **Review Cycle:** This repository is reviewed **Annually** or following a **Tier-1 Security Incident**.
+## 3.0 Human Factor Threat Profile
+We have identified seven primary vectors where human behavior impacts organizational security:
+
+> [!IMPORTANT]
+> **Primary Vector: Phishing & Vishing**
+> Targeting SOC personnel to harvest administrative credentials via deceptive communication.
+
+* **Social Engineering:** Manipulative tactics used to bypass physical security and digital protocols.
+* **Credential Mismanagement:** Failure to adhere to MFA protocols and poor password hygiene.
+* **Insider Threats:** Risks from accidental data exposure or malicious internal activity.
+* **Security Misconfiguration:** Administrative human error during system deployment.
+* **Third-Party/Vendor Risk:** Supply chain vulnerabilities introduced through external partners.
+* **Public Network Security:** Risks associated with remote work and insecure WiFi connection points.
 
 ---
-> [!NOTE]
-> This documentation is the property of **Cyberinfiniti Ltd**. Unauthorized distribution is strictly prohibited.
+
+## 4.0 Organizational Human Risk Matrix
+
+| Threat Vector | Likelihood | Impact | Risk Level | Mitigation Strategy |
+| :--- | :--- | :--- | :--- | :--- |
+| **Phishing** | 🟢 High | 🔴 High | `CRITICAL` | SAP + Automated Sandboxing |
+| **Social Engineering** | 🟡 Medium | 🔴 High | `HIGH` | Physical Access Controls |
+| **Credential Abuse** | 🟡 Medium | 🔘 Critical | `HIGH` | Phishing-Resistant MFA |
+| **Insider Threat** | 🔵 Low | 🔘 Critical | `MEDIUM` | DLP & Behavior Analytics |
+
+---
+
+## 5.0 Case Study Analysis (Benchmarks)
+To refine our internal controls, the team performed "Lessons Learned" analyses on major industry incidents:
+
+* **Uber (2022):** Analysis of **MFA Fatigue** and social engineering of third-party contractors.
+* **Twitter (2020):** Analysis of **Vishing** (Voice Phishing) used to compromise internal support tools.
+* **MGM/Caesars (2023):** Review of helpdesk-driven identity theft and social engineering.
+
+---
+
+## 6.0 Security Awareness Program (SAP) Implementation
+The SAP is structured into a continuous training lifecycle rather than a one-time event.
+
+### 📚 Core Modules
+1. **Phishing Defense:** Identifying "Red Flags" and pretexting.
+2. **Secure Remote Work:** VPN usage, Public WiFi hazards, and device security.
+3. **Physical Security:** Enforcing **Clear Desk & Clear Screen** policies.
+4. **Incident Reporting:** Streamlined procedures for flagging suspected threats.
+
+### 🎬 Accessibility & Delivery
+* **Accessible Media:** Training videos with captions and high-contrast visuals for all staff.
+* **Executive Briefings:** High-level summaries designed for non-technical stakeholders.
+
+---
+
+## 7.0 Governance & Continual Improvement
+To ensure the Human Firewall remains resilient:
+* **Simulated Phishing:** Conducted monthly to track staff resilience metrics.
+* **Reporting KPI:** Aiming for a >90% reporting rate of suspicious communications.
+* **Review Cycle:** This assessment is updated annually or following a Tier-1 incident.
+
+---
+**Approved By:** Managing Director  
+**Reviewed By:** Chief Information Security Officer (CISO)  
+**Distribution:** `CyBlack Team` | `SOC Team` | `Executive Management`
