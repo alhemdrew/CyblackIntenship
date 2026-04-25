@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/alhemdrew/CyblackIntenship/blob/main/sprints/c.png" alt="CyBlack Logo" />
+</p>
 # 👥 Human Factors in Cybersecurity: Threat Assessment & Awareness
 **Organization:** `Cyberinfiniti Ltd.`  
 **Report ID:** `CIF-HFC-RASAP-2026-02`  
