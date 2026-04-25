@@ -22,7 +22,7 @@
 
 ---
 <p align="center">
-    <img src="soc.png" alt="CyBlack Logo" />
+    <img src="soc" alt="CyBlack Logo" />
 </p>
 ## 1.0 Executive Summary
 This report details the operational activities of the **Cyberinfiniti SOC** during the April 2026 assessment period. The team successfully detected, investigated, and neutralized a multi-stage phishing campaign that led to account compromise and attempted malware deployment.
