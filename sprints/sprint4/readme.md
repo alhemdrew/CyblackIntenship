@@ -1,7 +1,8 @@
+
+# 👥 Human Factors in Cybersecurity: Threat Assessment & Awareness
 <p align="center">
     <img src="https://github.com/alhemdrew/CyblackIntenship/blob/main/sprints/c.png" alt="CyBlack Logo" />
 </p>
-# 👥 Human Factors in Cybersecurity: Threat Assessment & Awareness
 **Organization:** `Cyberinfiniti Ltd.`  
 **Report ID:** `CIF-HFC-RASAP-2026-02`  
 **Date:** March 2026  
@@ -20,6 +21,9 @@
 - [7.0 Governance & Continual Improvement](#70-governance--continual-improvement)
 
 ---
+<p align="center">
+    <img src="human.png" alt="CyBlack Logo" />
+</p>
 
 ## 1.0 Executive Summary
 This report documents a strategic deep-dive into the "Human Layer" of **Cyberinfiniti Ltd**. While technical controls provide a foundation, human behavior remains the most exploited vulnerability in modern cybersecurity. This sprint delivered a comprehensive **Human Factor Threat Assessment** and the design of a specialized **Security Awareness Program (SAP)**.
