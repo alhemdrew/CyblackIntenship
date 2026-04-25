@@ -22,7 +22,7 @@
 
 ---
 <p align="center">
-    <img src="https://github.com/alhemdrew/CyblackIntenship/tree/main/sprints/sprint5" alt="Hack_png" />
+    <img src="sprints/sprint5/hack.png" alt="Hack_png" />
 </p>
 ## 1.0 Executive Summary
 This report details the security assessment of the **VulnBank** web application. The engagement utilized a "Black Box" approach to identify critical weaknesses that could lead to unauthorized data access, financial fraud, or system compromise.
