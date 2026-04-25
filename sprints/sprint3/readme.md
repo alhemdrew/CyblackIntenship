@@ -1,4 +1,7 @@
 # GRC Enterprise Information Security Framework
+<p align="center">
+    <img src="https://github.com/alhemdrew/CyblackIntenship/blob/main/sprints/c.png" alt="CyBlack Logo" />
+</p>
 **Organization:** Cyberinfiniti Ltd.  
 **Project:** Policy Development & Compliance Framework Implementation  
 **Report ID:** `CIF-GRC-PDCR-2026-02`  
@@ -17,7 +20,9 @@
 7. [Strategic Recommendations](#70-strategic-recommendations)
 
 ---
-
+<p align="center">
+    <img src="grc.png" alt="CyBlack Logo" />
+</p>
 ## 1.0 Executive Summary
 This repository documents the Governance, Risk, and Compliance (GRC) sprint conducted for **Cyberinfiniti Ltd**. The project established a formal security governance infrastructure aligned with **ISO/IEC 27002:2022** and the **Nigeria Data Protection Act (NDPA) 2023**. 
 
