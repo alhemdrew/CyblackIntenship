@@ -21,7 +21,7 @@
 
 ---
 <p align="center">
-    <img src="grc.png" alt="CyBlack Logo" />
+    <img src="grc.jpeg" alt="CyBlack Logo" />
 </p>
 ## 1.0 Executive Summary
 This repository documents the Governance, Risk, and Compliance (GRC) sprint conducted for **Cyberinfiniti Ltd**. The project established a formal security governance infrastructure aligned with **ISO/IEC 27002:2022** and the **Nigeria Data Protection Act (NDPA) 2023**. 
