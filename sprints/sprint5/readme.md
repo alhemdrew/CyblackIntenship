@@ -1,7 +1,8 @@
 # 🛡️ Enterprise Penetration Testing: VulnBank Web Application
 <p align="center">
-    <img src="https://github.com/alhemdrew/CyblackIntenship/edit/main/sprints/c.png" alt="CyBlack Logo" />
+    <img src="https://github.com/alhemdrew/CyblackIntenship/blob/main/sprints/c.png" alt="CyBlack Logo" />
 </p>
+---
 **Organization:** `Cyberinfiniti Ltd.`  
 **Project:** Ethical Hacking & Security Assessment  
 **Target:** `VulnBank Web Application` (vulnbank.fezzant.com)  
